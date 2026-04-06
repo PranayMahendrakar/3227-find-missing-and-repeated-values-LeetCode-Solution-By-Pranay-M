@@ -10,3 +10,4 @@
 - [2026-04-06T19:33:37Z] fix: resolve edge case in input validation
 - [2026-04-06T14:03:32Z] fix: resolve edge case in input validation
 - [2026-04-06T12:53:04Z] docs: improve inline documentation
+- [2026-04-06T18:54:24Z] refactor: simplify conditional logic
